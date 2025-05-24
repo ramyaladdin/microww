@@ -1,0 +1,16 @@
+{
+  "type": "micro",
+  "wake_word": "Kasaandra",
+  "author": "Ramy Alaaeldin",
+  "website": "https://www.aiosmartech.com",
+  "model": "kasaandra.tflite",
+  "trained_languages": ["en","es"],
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.96,
+    "feature_step_size": 10,
+    "sliding_window_size": 5,
+    "tensor_arena_size": 26100,
+    "minimum_esphome_version": "2024.7.0"
+  }
+}
