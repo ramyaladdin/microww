@@ -3,7 +3,7 @@
   "wake_word": "Kasaandra",
   "author": "Ramy Alaaeldin",
   "website": "https://www.aiosmartech.com",
-  "model": "kasaandra.tflite",
+  "model": "https://raw.githubusercontent.com/ramyaladdin/microww/main/models/experimental/Kasaandra.tflite",
   "trained_languages": ["en","es"],
   "version": 2,
   "micro": {
