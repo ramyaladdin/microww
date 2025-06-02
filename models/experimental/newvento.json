@@ -3,7 +3,7 @@
   "wake_word": "newvento",
   "author": "Ramy Alaaeldin",
   "website": "https://www.aiosmartech.com",
-  "model": "newvento.tflite",
+  "model": "https://raw.githubusercontent.com/ramyaladdin/microww/main/models/experimental/newvento.tflite",
   "trained_languages": ["en","es"],
   "version": 2,
   "micro": {
